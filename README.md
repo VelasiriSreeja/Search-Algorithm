@@ -45,6 +45,9 @@ else:
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
+Developed by:v.sreeja
+RegisterNumber: 22004463
+
 def binarySearchIter(array, k, low, high):
     while low <= high:
         mid = low +(high - low)//2
@@ -73,6 +76,8 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
+Developed by:v.sreeja
+RegisterNumber: 22004463
 
 def BinarySearch(arr, k, low, high):
     if high >= low:
