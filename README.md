@@ -107,9 +107,9 @@ else:
 ```
 ## Sample Input and Output
 ![output](Screenshot%20from%202023-01-23%2018-10-40.png)
-![output](Screenshot%20from%202023-01-23%2018-07-12.png)
-![outut](Screenshot%20from%202023-01-23%2018-07-23.png)
-![output](Screenshot%20from%202023-01-23%2018-07-33.png)
+![output](Screenshot%20from%202023-01-26%2015-28-45.png)
+![output](Screenshot%20from%202023-01-26%2015-30-17.png)
+![output](Screenshot%20from%202023-01-26%2015-31-34.png)
 
 
 
